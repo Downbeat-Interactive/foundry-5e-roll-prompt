@@ -29,10 +29,10 @@ A Foundry VTT v14 macro for D&D5e that opens skill picker and rolls the selected
 6. Save and run it.
 
 Or, by importing the JSON:
-1. Download the released `fvtt-Macro-skill-picker.json`
+1. Download the released `fvtt-Macro-skill-picker.json`.
 2. Create a new macro.
 3. Name it.
-4. Right click the macro and choose "Import Data"
+4. Right click the macro and choose "Import Data".
 5. Select the `fvtt-Macro-skill-picker.json` file.
 
 ## Icon Source
