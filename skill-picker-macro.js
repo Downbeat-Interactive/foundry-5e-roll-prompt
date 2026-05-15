@@ -1,4 +1,4 @@
-// Red & Black 5e Skill Picker for Foundry VTT v14 + D&D5e
+// Skill Picker for Foundry VTT v14 + D&D5e
 // Selected token actor first, then user's assigned character fallback.
 // Centered panel, alphabetical skill list, large actor portrait.
 
